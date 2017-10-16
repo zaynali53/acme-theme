@@ -1,0 +1,36 @@
+{
+    "name": "acme-theme",
+    "displayName": "Acme Theme",
+    "description": "A Dark Theme For Web Artisans",
+    "version": "0.0.1",
+    "publisher": "zaynali",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "icon": "images/logo.png",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/zaynali53/acme-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zaynali53/acme-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zaynali53/acme-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#1A1B20",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Acme Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Acme-color-theme.json"
+            }
+        ]
+    }
+}
