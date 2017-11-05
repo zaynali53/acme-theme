@@ -2,7 +2,7 @@
     "name": "acme-theme",
     "displayName": "Acme Theme",
     "description": "A Dark Theme For Web Artisans",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "zaynali",
     "engines": {
         "vscode": "^1.17.0"
