@@ -1,5 +1,6 @@
 {
-	"tokenColors": "./Acme.tmTheme",
+	"name": "Acme Theme",
+	"type": "dark",
 	"colors": {
 		"editor.background": "#1A1B20",
 		"editorCursor.foreground": "#67809F",
@@ -31,5 +32,5 @@
 		"input.background": "#0b0b0d",
 		"scrollbarSlider.background": "#0b0b0d80"
 	},
-	"name": "Acme"
+	"tokenColors": "./Acme.tmTheme"
 }
